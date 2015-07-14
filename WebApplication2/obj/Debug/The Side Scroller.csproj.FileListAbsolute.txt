@@ -1,0 +1,12 @@
+C:\Users\Jattana\Documents\Semester 2\Game Prog\Assignment3\The Side Scroller\The Side Scroller\bin\COMP397-Lesson02-Part2.dll.config
+C:\Users\Jattana\Documents\Semester 2\Game Prog\Assignment3\The Side Scroller\The Side Scroller\bin\COMP397-Lesson02-Part2.dll
+C:\Users\Jattana\Documents\Semester 2\Game Prog\Assignment3\The Side Scroller\The Side Scroller\bin\COMP397-Lesson02-Part2.pdb
+C:\Users\Jattana\Documents\Semester 2\Game Prog\Assignment3\The Side Scroller\The Side Scroller\obj\Debug\The Side Scroller.csprojResolveAssemblyReference.cache
+C:\Users\Jattana\Documents\Semester 2\Game Prog\Assignment3\The Side Scroller\The Side Scroller\obj\Debug\COMP397-Lesson02-Part2.dll
+C:\Users\Jattana\Documents\Semester 2\Game Prog\Assignment3\The Side Scroller\The Side Scroller\obj\Debug\COMP397-Lesson02-Part2.pdb
+C:\Users\mohitagastya\Desktop\packages\jagpreetjattana.github.io-master\jagpreetjattana.github.io-master\Assignment_3\obj\Debug\The Side Scroller.csprojResolveAssemblyReference.cache
+C:\Users\mohitagastya\Desktop\packages\jagpreetjattana.github.io-master\jagpreetjattana.github.io-master\Assignment_3\obj\Debug\COMP397-Lesson02-Part2.dll
+C:\Users\mohitagastya\Desktop\packages\jagpreetjattana.github.io-master\jagpreetjattana.github.io-master\Assignment_3\obj\Debug\COMP397-Lesson02-Part2.pdb
+C:\Users\mohitagastya\Desktop\Assignment_3\obj\Debug\The Side Scroller.csprojResolveAssemblyReference.cache
+C:\Users\mohitagastya\Desktop\Assignment_3\obj\Debug\COMP397-Lesson02-Part2.dll
+C:\Users\mohitagastya\Desktop\Assignment_3\obj\Debug\COMP397-Lesson02-Part2.pdb
